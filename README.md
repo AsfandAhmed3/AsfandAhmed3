@@ -1,100 +1,31 @@
-<!-- Futuristic GitHub Profile README -->
+<p align="center"> <img src="https://cdn.pixabay.com/photo/2025/03/16/01/19/cyberpunk-city-9473079_1280.png" alt="Cyberpunk neon city banner" /> </p> <h1 align="center">👾 Hi, I'm Asfand Ahmed (AsfandAhmed3)</h1> <h3 align="center">🌃 Cyberpunk-Inspired Software Engineer & Open Source Enthusiast</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=72E2AE&background=00000000&width=500&height=50&lines=Asfand+Ahmed;Software+Engineer;Open+Source+Advocate" alt="Typing Text Animation" /> </p> <p align="center"> <a href="https://linkedin.com/in/AsfandAhmed3"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> <a href="mailto:asfandahmed3@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /> </a> </p>
+🛸 About Me
 
-<h1 align="center">🚀 Asfand Ahmed</h1>
-<p align="center">
-  <b>Aspiring Software Engineer | AI Explorer | Full-Stack Developer</b>
-</p>
+I am a passionate software engineer with a love for futuristic, neon-lit design. Skilled in full-stack development, machine learning, and cybersecurity, I enjoy building high-tech applications that stand out with cyberpunk aesthetics and smooth animations. I thrive in open source environments and continuously explore new technologies to innovate and learn. The profile is built with a clean, responsive layout that looks great on both desktop and mobile devices.
 
-<p align="center">
-  <a href="mailto:asfandali406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asfandali406%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/asfand-ahmed-209a10335/">
-    <img src="https://img.shields.io/badge/LinkedIn-Asfand%20Ahmed-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/Software%20Engineer-Futuristic-brightgreen?style=for-the-badge&logo=github" />
-</p>
+🚀 Skills
 
----
+Languages: JavaScript, Python, Go, C++
 
-## 🛠️ Skills Overview  
+Frameworks: React, Node.js, Next.js, TensorFlow, D3.js
 
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=radical&line1=java,java,ED8B00;cplusplus,c++,00599C;python,python,3776AB;&line2=javascript,javascript,F7DF1E;react,react,61DAFB;node.js,node.js,339933;&line3=mongodb,mongodb,47A248;mysql,mysql,4479A1;git,git,F05032;" />
-</p>
+Tools & Platforms: Docker, Kubernetes, AWS, Git, Jenkins, Unity, Unreal Engine
 
----
+Design & UX: Figma, Blender, Adobe XD, Tailwind CSS
 
-## 📊 Futuristic Skill Wheels  
+💻 Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsfandAhmed3&theme=radical&utcOffset=5" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsfandAhmed3&theme=radical" width="400" />
-</p>
+🛠️ Futuristic Portfolio – A cutting-edge portfolio website built with React and Three.js, showcasing 3D models and interactive neon interfaces.
 
----
+🔐 SecureAuth – An OAuth2-based authentication microservice (Go, Gin, PostgreSQL) with biometric and MFA support.
 
-## 🚧 Projects Showcase  
+🤖 ChatGPT Bot – A Discord chat bot powered by OpenAI and Pinecone for intelligent conversations, written in Python.
 
-<div align="center">
+📈 DataViz Dashboard – A real-time data visualization dashboard using D3.js and WebSockets, styled with neon cyberpunk themes.
 
-### 📚 EduConnect Pakistan  
-⚡ A futuristic tutoring platform with **modern UI, admin verification, analytics, reviews, and booking system**.  
-`MERN | JWT | TailwindCSS | MongoDB`
+🎮 Neon Runner – A 3D endless runner game built in Unity with stylized neon graphics and dynamic lighting.
 
----
+Each project features a modern card layout, icon, and keyword highlights for quick browsing.
 
-### ⚡ SkillSwap (Real-time Marketplace)  
-💡 A freelancer-client marketplace with **real-time bidding, Socket.io chat, reviews & analytics dashboard**.  
-`MERN | Socket.io | Chart.js`
-
----
-
-### 🖥️ Student Management System  
-🎓 Java + MariaDB-based **desktop system** for CRUD operations.  
-`Java | MariaDB | OOP`
-
----
-
-### 📊 Data Science & AI Projects  
-- ⚡ **Electricity Demand Forecasting** (Regression & EDA)  
-- 🔊 **Urdu Deepfake Audio Detection** (Binary Classification, AI Security)  
-- 📈 **Gaussian & Stochastic Process Modeling**  
-
----
-
-### 🏗️ Revit Dynamo Data Extractor  
-🏢 Extracted building data to **Excel/CSV** and visualized using **Python + Pandas + Matplotlib**.  
-
----
-
-### 📝 Text Editor (Java)  
-📜 A **feature-rich editor** with **15+ OOP classes**, modular architecture & design patterns.  
-
----
-
-### 🔐 WiFi Pentesting  
-🔎 Used **Aircrack-ng & Airmon-ng** to analyze WiFi protocols and security vulnerabilities.  
-
-</div>
-
----
-
-## 🌌 GitHub Galaxy  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsfandAhmed3&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AsfandAhmed3&show_icons=true&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfandAhmed3&layout=donut&theme=radical&hide_border=true" height="180" />
-</p>
-
----
-
-## ✨ Closing Note  
-
-<p align="center">
-  "Building <b>futuristic solutions</b> with code, data & creativity."  
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AsfandAhmed3&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfandAhmed3&layout=donut&theme=tokyonight" alt="Top Languages" /> <img src="https://streak-stats.demolab.com/?user=AsfandAhmed3&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://cdn.pixabay.com/photo/2025/02/02/11/57/neon-9376556_1280.jpg" alt="Neon Synth Wave Banner" /> </p>
