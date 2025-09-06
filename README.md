@@ -28,8 +28,8 @@
 ## 📊 Futuristic Skill Wheels  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asfandali406&theme=radical&utcOffset=5" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asfandali406&theme=radical" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsfandAhmed3&theme=radical&utcOffset=5" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsfandAhmed3&theme=radical" width="400" />
 </p>
 
 ---
@@ -83,12 +83,12 @@
 ## 🌌 GitHub Galaxy  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfandali406&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=asfandali406&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsfandAhmed3&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsfandAhmed3&show_icons=true&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfandali406&layout=donut&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfandAhmed3&layout=donut&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
