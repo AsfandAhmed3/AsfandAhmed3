@@ -1,109 +1,100 @@
-<!-- Modern Futuristic GitHub Profile README v2 -->
+<!-- Futuristic GitHub Profile README -->
 
-<h1 align="center">✨ Asfand Ahmed ✨</h1>
-<h3 align="center">Software Engineer | AI & Data Science Explorer | Futuristic Developer</h3>
-
----
+<h1 align="center">🚀 Asfand Ahmed</h1>
+<p align="center">
+  <b>Aspiring Software Engineer | AI Explorer | Full-Stack Developer</b>
+</p>
 
 <p align="center">
   <a href="mailto:asfandali406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asfandali406%40gmail.com-ff4c4c?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-asfandali406%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/asfand-ahmed-209a10335/">
-    <img src="https://img.shields.io/badge/LinkedIn-Asfand%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Asfand%20Ahmed-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=asfandali406&style=for-the-badge&color=06B6D4" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Software%20Engineer-Futuristic-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 🛠️ Skills & Expertise  
+## 🛠️ Skills Overview  
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=radical&line1=java,java,ED8B00;cplusplus,c++,00599C;python,python,3776AB;&line2=javascript,javascript,F7DF1E;react,react,61DAFB;node.js,node.js,339933;&line3=mongodb,mongodb,47A248;mysql,mysql,4479A1;git,git,F05032;" />
+</p>
+
+---
+
+## 📊 Futuristic Skill Wheels  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asfandali406&theme=radical&utcOffset=5" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asfandali406&theme=radical" width="400" />
+</p>
+
+---
+
+## 🚧 Projects Showcase  
 
 <div align="center">
 
-💻 **Programming Languages**  
-C • C++ • Java • Python  
+### 📚 EduConnect Pakistan  
+⚡ A futuristic tutoring platform with **modern UI, admin verification, analytics, reviews, and booking system**.  
+`MERN | JWT | TailwindCSS | MongoDB`
 
-🌐 **Web Development**  
-MERN Stack • REST APIs • Microservices • JWT Auth • TailwindCSS • ShadCN  
+---
 
-📊 **Data Science & AI**  
-Machine Learning • Generative AI • Gaussian & Stochastic Processes • Deepfake Detection • NLP  
+### ⚡ SkillSwap (Real-time Marketplace)  
+💡 A freelancer-client marketplace with **real-time bidding, Socket.io chat, reviews & analytics dashboard**.  
+`MERN | Socket.io | Chart.js`
 
-🗄️ **Databases**  
-MongoDB • MySQL • MariaDB • DynamoDB  
+---
 
-🔐 **Networking & Security**  
-Computer Networks • Routing • DHCP • CIDR • WiFi Pentesting (Aircrack-ng, Airmon-ng)  
+### 🖥️ Student Management System  
+🎓 Java + MariaDB-based **desktop system** for CRUD operations.  
+`Java | MariaDB | OOP`
 
-🏗️ **Software Engineering**  
-Software Design & Architecture • Requirements Engineering • Software Quality Engineering  
+---
+
+### 📊 Data Science & AI Projects  
+- ⚡ **Electricity Demand Forecasting** (Regression & EDA)  
+- 🔊 **Urdu Deepfake Audio Detection** (Binary Classification, AI Security)  
+- 📈 **Gaussian & Stochastic Process Modeling**  
+
+---
+
+### 🏗️ Revit Dynamo Data Extractor  
+🏢 Extracted building data to **Excel/CSV** and visualized using **Python + Pandas + Matplotlib**.  
+
+---
+
+### 📝 Text Editor (Java)  
+📜 A **feature-rich editor** with **15+ OOP classes**, modular architecture & design patterns.  
+
+---
+
+### 🔐 WiFi Pentesting  
+🔎 Used **Aircrack-ng & Airmon-ng** to analyze WiFi protocols and security vulnerabilities.  
 
 </div>
 
 ---
 
-## 🚀 Projects Showcase  
-
-🌟 **EduConnect Pakistan (MERN)**  
-> A modern tutoring platform with tutor search, session booking, reviews, wishlist, and **Admin dashboard**.  
-
-⚡ **SkillSwap (MERN + Real-time)**  
-> A freelancer-client marketplace with **real-time bidding, messaging, analytics, and admin panel**.  
-
-🖥️ **Student Management System (Java + MariaDB)**  
-> CRUD-based student records management system.  
-
-📊 **Electricity Demand Forecasting (Data Science)**  
-> Data preprocessing + regression modeling + visualization.  
-
-🔊 **Urdu Deepfake Audio Detection**  
-> AI/ML classifier for detecting fake audio.  
-
-🏗️ **Revit Dynamo Data Extractor**  
-> Building data exported to CSV/Excel + visualized in Python.  
-
-🎮 **Game Development Testing & Automation**  
-> Automated testing for Unity/Unreal + documentation.  
-
-📝 **Text Editor (Java, OOP)**  
-> 15+ class OOP-based text editor project.  
-
-🔐 **WiFi Security Pentesting**  
-> Wireless security analysis using Aircrack-ng & Airmon-ng.  
-
----
-
-## 📊 GitHub Performance  
+## 🌌 GitHub Galaxy  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfandali406&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfandali406&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asfandali406&show_icons=true&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asfandali406&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfandali406&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfandali406&layout=donut&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 🌌 Futuristic Vibes  
+## ✨ Closing Note  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=🚀+Aspiring+Software+Engineer;🌐+Full-Stack+MERN+Developer;🤖+AI+%26+Generative+AI+Explorer;📊+Data+Science+%26+ML+Enthusiast;🔐+Networking+%26+Cybersecurity+Learner" />
+  "Building <b>futuristic solutions</b> with code, data & creativity."  
 </p>
-
----
-
-## 🤝 Connect with Me  
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/asfand-ahmed-209a10335/)  
-- 📧 [Email Me](mailto:asfandali406@gmail.com)  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:06B6D4&height=120&section=footer"/>
-</p>
-
-✨ *"Turning futuristic ideas into real-world code."* ✨
