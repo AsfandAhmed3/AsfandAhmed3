@@ -1,31 +1,105 @@
-<p align="center"> <img src="https://cdn.pixabay.com/photo/2025/03/16/01/19/cyberpunk-city-9473079_1280.png" alt="Cyberpunk neon city banner" /> </p> <h1 align="center">👾 Hi, I'm Asfand Ahmed (AsfandAhmed3)</h1> <h3 align="center">🌃 Cyberpunk-Inspired Software Engineer & Open Source Enthusiast</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=72E2AE&background=00000000&width=500&height=50&lines=Asfand+Ahmed;Software+Engineer;Open+Source+Advocate" alt="Typing Text Animation" /> </p> <p align="center"> <a href="https://linkedin.com/in/AsfandAhmed3"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> <a href="mailto:asfandahmed3@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /> </a> </p>
-🛸 About Me
+<!-- 🚀 Futuristic GitHub Profile README for AsfandAhmed3 -->
 
-I am a passionate software engineer with a love for futuristic, neon-lit design. Skilled in full-stack development, machine learning, and cybersecurity, I enjoy building high-tech applications that stand out with cyberpunk aesthetics and smooth animations. I thrive in open source environments and continuously explore new technologies to innovate and learn. The profile is built with a clean, responsive layout that looks great on both desktop and mobile devices.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=0FFBF9&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Asfand+Ahmed;🚀+Software+Engineer;🤖+AI+%26+Data+Science+Explorer;🌐+Full+Stack+Developer;🔐+Cybersecurity+Learner" alt="Typing SVG" />
+</h1>
 
-🚀 Skills
+<p align="center">
+  <a href="mailto:asfandali406@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asfandali406%40gmail.com-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/asfand-ahmed-209a10335/">
+    <img src="https://img.shields.io/badge/LinkedIn-Asfand%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Software_Engineer-Futuristic-7A00FF?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-Languages: JavaScript, Python, Go, C++
+---
 
-Frameworks: React, Node.js, Next.js, TensorFlow, D3.js
+## 🛠️ Tech Arsenal  
 
-Tools & Platforms: Docker, Kubernetes, AWS, Git, Jenkins, Unity, Unreal Engine
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,react,nodejs,mongodb,mysql,git,linux,tailwind&perline=6" />
+</p>
 
-Design & UX: Figma, Blender, Adobe XD, Tailwind CSS
+---
 
-💻 Projects
+## 📊 My Skill Galaxy  
 
-🛠️ Futuristic Portfolio – A cutting-edge portfolio website built with React and Three.js, showcasing 3D models and interactive neon interfaces.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsfandAhmed3&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsfandAhmed3&theme=tokyonight" width="400" />
+</p>
 
-🔐 SecureAuth – An OAuth2-based authentication microservice (Go, Gin, PostgreSQL) with biometric and MFA support.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsfandAhmed3&theme=tokyonight&utcOffset=5" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsfandAhmed3&theme=tokyonight" width="400" />
+</p>
 
-🤖 ChatGPT Bot – A Discord chat bot powered by OpenAI and Pinecone for intelligent conversations, written in Python.
+---
 
-📈 DataViz Dashboard – A real-time data visualization dashboard using D3.js and WebSockets, styled with neon cyberpunk themes.
+## 🚀 Featured Projects  
 
-🎮 Neon Runner – A 3D endless runner game built in Unity with stylized neon graphics and dynamic lighting.
+### 📚 **EduConnect Pakistan (MERN)**  
+🌐 Modern tutoring platform with **tutor search, bookings, reviews, wishlist, and admin dashboard**.  
+`React | Node.js | MongoDB | Tailwind | JWT`  
 
-Each project features a modern card layout, icon, and keyword highlights for quick browsing.
+---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AsfandAhmed3&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfandAhmed3&layout=donut&theme=tokyonight" alt="Top Languages" /> <img src="https://streak-stats.demolab.com/?user=AsfandAhmed3&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://cdn.pixabay.com/photo/2025/02/02/11/57/neon-9376556_1280.jpg" alt="Neon Synth Wave Banner" /> </p>
+### ⚡ **SkillSwap (Realtime Marketplace)**  
+🛒 Freelancer-client marketplace with **real-time bidding, Socket.io messaging, reviews & analytics**.  
+`MERN | Socket.io | Chart.js | Admin Panel`  
+
+---
+
+### 🖥️ **Student Management System**  
+🎓 Java + MariaDB desktop system for student CRUD operations.  
+`Java | MariaDB | OOP`  
+
+---
+
+### 📊 **Electricity Demand Forecasting**  
+⚡ Data cleaning, EDA, and regression modeling for demand prediction.  
+`Python | Pandas | Matplotlib | Scikit-learn`  
+
+---
+
+### 🔊 **Urdu Deepfake Audio Detection**  
+🎤 AI model to detect manipulated Urdu speech (binary classification).  
+`AI | NLP | Audio Processing`  
+
+---
+
+### 📝 **Java Text Editor**  
+🖋️ A text editor with **15+ OOP classes** showcasing software design principles.  
+
+---
+
+### 🔐 **WiFi Pentesting Project**  
+🛰️ Security testing with **Aircrack-ng & Airmon-ng** to analyze WiFi protocols.  
+
+---
+
+## 🌌 GitHub Galaxy  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsfandAhmed3&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsfandAhmed3&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfandAhmed3&layout=donut&theme=radical&hide_border=true" height="180" />
+</p>
+
+---
+
+## ✨ Final Note  
+
+<p align="center">
+  ⚡ <i>"Designing futuristic solutions with <b>code, data, and creativity</b>."</i> ⚡
+</p>
+
+<!-- Futuristic Wave Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AsfandAhmed3/AsfandAhmed3/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
