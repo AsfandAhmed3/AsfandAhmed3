@@ -1,79 +1,91 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=0FFBF9&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Asfand+Ahmed;🚀+Co-Founder+%26+Lead+Developer+@+Hungryboys;🤖+AI+%26+Machine+Learning+Engineer;🌐+Full-Stack+Cloud+Architect;⚡+Building+Scalable+SaaS+%26+GenAI+Pipelines" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0FFBF9&height=200&section=header&text=ASFAND_AHMED%20//%20SYSTEM_ONLINE&fontSize=45&fontColor=0FFBF9&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Full-Stack%20Architect%20|%20Founder&descAlignY=60&descAlign=50&descSize=20"/>
+</div>
 
 <p align="center">
-  <a href="mailto:asfandali406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asfandali406%40gmail.com-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/asfand-ahmed-980b083b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Asfand%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AsfandAhmed3">
-    <img src="https://img.shields.io/badge/FAST--NUCES-Software_Engineering_'26-7A00FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=0FFBF9&center=true&vCenter=true&width=600&lines=>_++EXECUTING+AI+MODELS...;>_++SCALING+MERN+ARCHITECTURE...;>_++DEPLOYING+TO+AWS...;>_++WELCOME+TO+MY+MAINFRAME." alt="Typing Console" />
 </p>
 
-<h3 align="center">Bridging the gap between scalable web architecture and Generative AI.</h3>
+```bash
+Asfand@Mainframe:~$ ./boot_profile.sh
+[+] Initializing Neural Networks (PyTorch/OpenCV)...... DONE
+[+] Loading Full-Stack Modules (MERN/Vue).............. DONE
+[+] Syncing with Hungryboys Server (800+ Users)........ LIVE
+[+] Establishing secure connection..................... [OK]
+<div align="center">
+<a href="mailto:asfandali406@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Connect-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3D0FFBF9%26borderColor%3D0FFBF9" /></a>
+<a href="https://www.linkedin.com/in/asfand-ahmed-980b083b1/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Network-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D0FFBF9%26borderColor%3D0FFBF9" /></a>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/FAST_NUCES-SE_%2726-000000%3Fstyle%3Dfor-the-badge%26logo%3Dcodeforces%26logoColor%3D0FFBF9%26borderColor%3D0FFBF9" />
+</div>
 
----
-
-## 🛠️ Tech Arsenal  
+<h2 align="center">⚡ CORE_DIRECTIVES // TECH_STACK ⚡</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,pytorch,tensorflow,aws,docker,linux,react,vue,nodejs,express,mongodb,postgres,tailwind,git&perline=9" />
-  </a>
+<a href="https://www.google.com/search?q=https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,pytorch,tensorflow,aws,docker,linux,cpp,java,js,ts,react,vue,nodejs,express,mongodb,postgres,tailwind,git%26perline%3D9%26theme%3Ddark" />
+</a>
 </p>
 
----
+<h2 align="center">🌌 SYSTEM_MODULES // DEPLOYED_PROJECTS 🌌</h2>
 
-## 🚀 Featured Engineering & AI Projects  
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🍔 Hungryboys Platform (Founder)</h3>
+<p align="center"><i>Custom SaaS / MERN Stack</i></p>
+<hr>
+<ul>
+<li>Architected food delivery SaaS scaling to <b>800+ users</b>.</li>
+<li>Engineered strict algorithmic batch-ordering logic.</li>
+<li><b>Tech:</b> Node.js, Express, MongoDB, React, AWS.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🧠 Policy RAG System</h3>
+<p align="center"><i>Generative AI / Vector DBs</i></p>
+<hr>
+<ul>
+<li>Architected a Retrieval-Augmented Gen pipeline.</li>
+<li>Automated semantic evaluation of complex docs.</li>
+<li><b>Tech:</b> LangChain, ChromaDB, Python, Gemini API.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">👁️ ANET: AI Attendance</h3>
+<p align="center"><i>Computer Vision / IoT Integration</i></p>
+<hr>
+<ul>
+<li><b>>95% accuracy</b> real-time facial recognition via IP cameras.</li>
+<li>Synced AI model with RBAC web dashboard.</li>
+<li><b>Tech:</b> OpenCV, Deep Learning, Python, MERN.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">📝 T5 LLM Fine-Tuning</h3>
+<p align="center"><i>NLP / Model Optimization</i></p>
+<hr>
+<ul>
+<li>Fine-tuned T5-small transformer on CNN/DailyMail dataset.</li>
+<li>Implemented <b>LoRA/PEFT</b> for parameter efficiency.</li>
+<li><b>Tech:</b> PyTorch, Hugging Face, NLP.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-### 🍔 **Hungryboys Platform (Co-Founder & Lead Dev)** 🌐 Custom food delivery platform scaling to **800+ university users**. Engineered algorithmic batch-ordering and strict 11 AM delivery cut-offs.  
-`Node.js | Express | MongoDB | React | AWS`  
-
----
-
-### 🧠 **Policy Compliance RAG System** 🤖 Architected a Retrieval-Augmented Generation pipeline using vector databases and LLM APIs for automated semantic policy evaluation.  
-`LangChain | ChromaDB | Python | Gemini API`  
-
----
-
-### 👁️ **ANET – AI Attendance System (FYP)** 📷 High-accuracy **(>95%) computer vision pipeline** for real-time facial recognition, synced with an automated IP camera tracking system and RBAC web portal.  
-`Python | OpenCV | Deep Learning | MERN Stack`  
-
----
-
-### 📝 **T5 Text Summarization (LLM Fine-Tuning)** ⚡ Fine-tuned a T5-small transformer model on the CNN/DailyMail dataset utilizing **Low-Rank Adaptation (LoRA)** and mixed-precision training.  
-`PyTorch | Hugging Face | PEFT/LoRA | NLP`  
-
----
-
-### 📚 **EduConnect Pakistan** 🎓 Comprehensive tutoring marketplace supporting real-time session booking, JWT admin verification, and a highly modular frontend architecture.  
-`React.js | Node.js | MongoDB | TailwindCSS | Framer Motion`  
-
----
-
-## 📊 Developer Analytics  
+<h2 align="center">📡 TELEMETRY_DATA // GITHUB_STATS 📡</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsfandAhmed3&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfandAhmed3&layout=donut&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAsfandAhmed3%26show_icons%3Dtrue%26bg_color%3D0D1117%26border_color%3D0FFBF9%26title_color%3D0FFBF9%26text_color%3DFFFFFF%26icon_color%3Dbf00ff%26hide_border%3Dfalse" height="190" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAsfandAhmed3%26layout%3Ddonut%26bg_color%3D0D1117%26border_color%3D0FFBF9%26title_color%3D0FFBF9%26text_color%3DFFFFFF%26hide_border%3Dfalse" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsfandAhmed3&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAsfandAhmed3%26background%3D0D1117%26border%3D0FFBF9%26stroke%3D0FFBF9%26ring%3Dbf00ff%26fire%3D0FFBF9%26currStreakNum%3DFFFFFF%26sideNums%3DFFFFFF%26currStreakLabel%3D0FFBF9%26sideLabels%3D0FFBF9%26dates%3DFFFFFF%26hide_border%3Dfalse" height="190" />
 </p>
 
----
-
-## ✨ Final Note  
-
-<p align="center">
-  ⚡ <i>"I don't just train models; I deploy them into scalable, production-ready systems."</i> ⚡
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AsfandAhmed3/AsfandAhmed3/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/AsfandAhmed3/AsfandAhmed3/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
